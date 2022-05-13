@@ -23,6 +23,7 @@ This was made out of 2 hidden layers. The first layer is 80 aneurons and the sec
     - Were you able to achieve the target model performance?
 Unfortunately I was not. According to the image below it shows I was only able to get to 72%.
 
+![](https://github.com/mquimi/Neural_Network_Charity_Analysis/blob/main/image/results.png)
 
 ### Summary:
 
